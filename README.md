@@ -9,7 +9,7 @@ When I'm not coding, you can find me reading about the latest trends in tech or 
 
 Feel free to check out my GitHub profile to see some of my work and projects.
 
-For Simplified view - htts://saikrishna488.live
+For Simplified view - https://saikrishna488.live
 <!--
 **saikrishna488/saikrishna488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
