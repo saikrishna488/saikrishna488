@@ -1,4 +1,4 @@
-### Hi there 👋
+### about me 👋
 
 Hi, I'm Saikrishna - a computer science engineering student with a passion for building projects and exploring new technologies. My diverse skill set includes proficiency in multiple programming languages, such as C, C++, Java, HTML, CSS, PHP, JavaScript, React, Next.js, Node.js, Express, MongoDB, MySQL, Bash, and Python.
 
