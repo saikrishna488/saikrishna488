@@ -2,8 +2,6 @@
 
 🎓 Computer Science Engineer with a passion for full-stack development. I enjoy building web applications, exploring cloud technologies, and working on personal projects. Skilled in React, Next.js, Node.js, and Python.
 
-🚀 Co-Founder & CTO at ApnAInterview Cracker, where I led the development of a SaaS platform for job-ready tools.
-
 🌟 Always learning and experimenting with new technologies. Check out my repos and let's collaborate!
 
 🔗 Portfolio: [saikrishna488.github.io/portfolio](https://saikrishna488.github.io/portfolio)
